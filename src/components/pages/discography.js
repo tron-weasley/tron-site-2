@@ -4,20 +4,20 @@ class Discography extends Component {
     render() {
         return (
             <div>
-                <div class="section">
-                    <div class="wrapper">
+                <div className="section">
+                    <div className="wrapper">
                             <h1>Discography</h1>
-                            <ul class="albums">
-                            <li class="scene">
-                                <div class="album">
-                                    <div class="poster"></div>
-                                    <div class="info">
+                            <ul className="albums">
+                            <li className="scene">
+                                <div className="album">
+                                    <div className="poster"></div>
+                                    <div className="info">
                                     <header>
                                         <div>
                                             <h1 id="tom">Magnetic Router Sounds, Vol. 1</h1>
-                                            <span class="year">2020</span>
-                                            <span class="rating">PG</span>
-                                            <span class="duration">30 minutes</span>
+                                            <span className="year">2020</span>
+                                            <span className="rating">PG</span>
+                                            <span className="duration">30 minutes</span>
                                         </div>
                                     </header>
                                     <p>
@@ -26,16 +26,16 @@ class Discography extends Component {
                                     </div>
                                 </div>
                             </li>  
-                            <li class="scene">
-                                    <div class="album">
-                                        <div class="poster"></div>
-                                        <div class="info">
+                            <li className="scene">
+                                    <div className="album">
+                                        <div className="poster"></div>
+                                        <div className="info">
                                         <header>
                                             <div>
                                                 <h1 id="tom">Modal Fixture</h1>
-                                                <span class="year">2020</span>
-                                                <span class="rating">PG-13</span>
-                                                <span class="duration">50 minutes</span>
+                                                <span className="year">2020</span>
+                                                <span className="rating">PG-13</span>
+                                                <span className="duration">50 minutes</span>
                                             </div>
                                         </header>
                                         <p>
@@ -44,16 +44,16 @@ class Discography extends Component {
                                         </div>
                                     </div>
                                 </li>
-                        <li class="scene">
-                                <div class="album">
-                                    <div class="poster"></div>
-                                    <div class="info">
+                        <li className="scene">
+                                <div className="album">
+                                    <div className="poster"></div>
+                                    <div className="info">
                                     <header>
                                         <div>
                                             <h1 id="tom">Medieval Surges</h1>
-                                            <span class="year">2020</span>
-                                            <span class="rating">R</span>
-                                            <span class="duration">35 minutes</span>
+                                            <span className="year">2020</span>
+                                            <span className="rating">R</span>
+                                            <span className="duration">35 minutes</span>
                                         </div>
                                     </header>
                                     <p>
@@ -62,16 +62,16 @@ class Discography extends Component {
                                     </div>
                                 </div>
                             </li>
-                            <li class="scene">
-                                    <div class="album">
-                                        <div class="poster"></div>
-                                        <div class="info">
+                            <li className="scene">
+                                    <div className="album">
+                                        <div className="poster"></div>
+                                        <div className="info">
                                         <header>
                                             <div>
                                                 <h1 id="tom">Maybe I'm a Leo</h1>
-                                                <span class="year">2020</span>
-                                                <span class="rating">PG-13</span>
-                                                <span class="duration">30 minutes</span>
+                                                <span className="year">2020</span>
+                                                <span className="rating">PG-13</span>
+                                                <span className="duration">30 minutes</span>
                                             </div>
                                         </header>
                                         <p>
