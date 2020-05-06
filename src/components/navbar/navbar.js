@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
+import Social from './social';
 
-export class navbar extends Component {
+export class Navbar extends Component {
     render() {
         return (
             <div>
-                
+                <Social />
             </div>
-        )
+        );
     }
 }
 
-export default navbar
+export default Navbar;

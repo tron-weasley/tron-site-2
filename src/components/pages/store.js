@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
 
-export class store extends Component {
+export class  Store extends Component {
     render() {
         return (
             <div>
                 
             </div>
-        )
+        );
     }
 }
 
-export default store
+export default Store;
